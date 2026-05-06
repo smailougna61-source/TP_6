@@ -1,0 +1,31 @@
+body {
+    font-family:Arial, sans-serif;
+    background-color: rgb(27, 31, 30);
+    margin: 0;
+    padding: 0;
+}
+.d {
+    width: 400px;
+    margin: 50px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(138, 205, 175) ;
+}
+h1 {
+    font-family: Verdana;
+    text-align: center;
+    color: black;
+
+}
+form {
+    display: flex;
+    gap: 10px;
+
+
+}
+input{
+    font-family: Arial;
+    flex: 1;
+    padding: 10px;
+}
